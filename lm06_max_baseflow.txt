@@ -1,0 +1,17 @@
+
+Call:
+lm(formula = max.BASEFLOW ~ year, data = df.bfs.union.annual)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-2.1169 -0.4595  0.2275  0.4188  1.7995 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)
+(Intercept) -139.63462  108.34392  -1.289    0.217
+year           0.07234    0.05412   1.337    0.201
+
+Residual standard error: 1.093 on 15 degrees of freedom
+Multiple R-squared:  0.1064,	Adjusted R-squared:  0.04687 
+F-statistic: 1.787 on 1 and 15 DF,  p-value: 0.2012
+

@@ -1,0 +1,17 @@
+
+Call:
+lm(formula = mean.FLOW ~ year, data = df.annual.flow.model)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-1.1439 -0.6151  0.1706  0.3772  1.3265 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)
+(Intercept) -103.38208   78.64222  -1.315    0.208
+year           0.05387    0.03928   1.371    0.190
+
+Residual standard error: 0.7935 on 15 degrees of freedom
+Multiple R-squared:  0.1114,	Adjusted R-squared:  0.05218 
+F-statistic: 1.881 on 1 and 15 DF,  p-value: 0.1904
+
