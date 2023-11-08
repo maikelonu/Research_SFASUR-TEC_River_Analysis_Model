@@ -13,7 +13,7 @@ Proceedings of the 37th IAHR World Congress, Kuala Lumpur, Malaysia
 
 Graphical Abstract
 
-![alt test](/SFAUR_TEC01.png.png)
+![alt test](/SFAUR_TEC01.png)
 
 Abstract: 
 
