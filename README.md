@@ -1,6 +1,6 @@
 # SFASUR-TEC
 
-SFASUR-TEC is an program intended for river streamflow and flood analysis
+SFASUR-TEC is an R program intended for river streamflow and flood analysis
 
 ## Installation
 
