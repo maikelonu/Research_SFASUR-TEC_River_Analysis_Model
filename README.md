@@ -1,4 +1,4 @@
-SFASUR-TEC
+# SFASUR-TEC
 
 SFASUR-TEC is an program intended for river streamflow and flood analysis
 
@@ -18,7 +18,7 @@ Luis Alexander Calvo Valverde. Escuela de Ingeniería en Computación, Instituto
 
 ## Publications
 
-# Development of the Streamflow and Flood Analysis System using R (SFASUR-TEC)
+Development of the Streamflow and Flood Analysis System using R (SFASUR-TEC)
 
 Proceedings of the 37th IAHR World Congress, Kuala Lumpur, Malaysia
 
